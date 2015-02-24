@@ -26,6 +26,7 @@ h1 {
   -moz-border-radius: 115px;
   border-radius: 115px;
   margin: 0;
+  margin-left: 200px;
 }
 
 ul#sites {
@@ -40,6 +41,7 @@ ul#sites {
   text-align: center;
   -moz-border-radius: 115px;
   border-radius: 115px;
+  margin-left: 800px;
 }
 
 ul#social {
@@ -55,6 +57,7 @@ ul#social {
   text-align: center;
   -moz-border-radius: 115px;
   border-radius: 115px;
+  margin-left: 400px;
 }
 
 ul#footer {
@@ -69,6 +72,7 @@ ul#footer {
   text-align: center;
   -moz-border-radius: 115px;
   border-radius: 115px;
+  margin-left: 600px;
 }
 
 
