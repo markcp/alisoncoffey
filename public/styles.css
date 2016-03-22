@@ -25,7 +25,7 @@ h1 {
   text-align: center;
   -moz-border-radius: 115px;
   border-radius: 115px;
-  margin-top: 50px;
+  margin-top: 0;
   margin-left: 0;
 }
 
@@ -41,7 +41,7 @@ ul#sites {
   text-align: center;
   -moz-border-radius: 115px;
   border-radius: 115px;
-  margin-left: 300px;
+  margin-left: 0;
   margin-top: 0;
 }
 
@@ -58,8 +58,8 @@ ul#social {
   text-align: center;
   -moz-border-radius: 115px;
   border-radius: 115px;
-  margin-left: 550px;
-  margin-top: -400px;
+  margin-left: 0;
+  margin-top: 0;
 }
 
 ul#footer {
@@ -74,10 +74,6 @@ ul#footer {
   text-align: center;
   -moz-border-radius: 115px;
   border-radius: 115px;
-  margin-left: 900px;
-  margin-top: 0;
+  margin-left: 0;
+  margin-top: 15px;
 }
-
-
-
-
